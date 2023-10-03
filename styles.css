@@ -1,0 +1,19 @@
+.banner{
+}
+
+.leftlinks a{
+    display: block;
+}
+
+.content{
+    max-width: 50%;
+    display: block;
+    position: absolute;
+    left: 50vh;
+    text-align: center;
+}
+
+.rightlinks a{
+    display: block;
+    text-align: right;
+}
